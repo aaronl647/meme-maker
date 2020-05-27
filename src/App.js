@@ -67,7 +67,7 @@ function App() {
       )}
       {!template && (
         <>
-          <h1>Select a Template</h1>
+          <h1>Select a Spicy Meme Template</h1>
           {templates.map((template) => {
             return (
               <Meme
