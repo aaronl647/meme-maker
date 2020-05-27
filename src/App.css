@@ -24,6 +24,16 @@
   color: white;
 }
 
+.container {
+  display: center;
+}
+
+.container img{
+  max-width: 200px;
+  padding: 5px;
+
+}
+
 .App-link {
   color: #61dafb;
 }
